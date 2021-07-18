@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 👨🏼‍💻 I’m currently working on **Ambit** app! This is by far my coolest project. Feel free to check it out:
-  1. Download **TestFlight** from Apple App Store from your iPhone
+  1. Download **TestFlight** from the Apple App Store on your iPhone
   2. Click this link: https://testflight.apple.com/join/vUpBiHa3
 ###### ...
 - ⭐️ I've built some other cool projects, but I have to keep them private
