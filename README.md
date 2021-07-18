@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 👨🏼‍💻 I’m currently working on Ambit app!
+- 📱 If you want to see the app, simply do the following:
+      1. Download "TestFlight" from Apple App Store from your iPhone
+      2. Click this link: https://testflight.apple.com/join/vUpBiHa3
+
+- ⭐️ I've built some other cool projects, but I have to keep them private
+- 💬 Ask me about the Manufacturing Execution System or the Solar Design Configurator that I built!
+
+- ⚡ Fun fact: I used to be a hardware engineer and design printed circuit boards...but I fell in love with coding!
+
 <!--
 **chadwhittaker/chadwhittaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
