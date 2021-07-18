@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 👨🏼‍💻 I’m currently working on **Ambit** app! This is by far my coolest project.
-- 📱 If you want to see the app, simply do the following:
+👨🏼‍💻 I’m currently working on **Ambit** app! This is by far my coolest project. Feel free to check it out:
   1. Download **TestFlight** from Apple App Store from your iPhone
   2. Click this link: https://testflight.apple.com/join/vUpBiHa3
 ###### ...
