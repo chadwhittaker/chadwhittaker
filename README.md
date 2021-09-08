@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-👨🏼‍💻 I’m currently working on **Ambit** app! This is by far my coolest project. Feel free to check it out:
+👨🏼‍💻 I’m currently working on **Ambit** app! It is a social media focused on achieving goals and connecting people (mentors, business partners, etc). Feel free to check it out:
   1. Download **TestFlight** from the Apple App Store on your iPhone
-  2. Click this link: https://testflight.apple.com/join/vUpBiHa3
+  2. Click this link: https://testflight.apple.com/join/AQJzxbah
 ###### ...
 - ⭐️ I've built some other cool projects, but I have to keep them private
 - 💬 Ask me about the **Manufacturing Execution System** or the **Solar Design Configurator** that I built!
