@@ -7,7 +7,7 @@
 - ⭐️ I've built some other cool projects, but I have to keep them private
 - 💬 Ask me about the **Manufacturing Execution System** or the **Solar Design Configurator** that I built!
 - ⚡ Fun fact: I used to be a hardware engineer and design printed circuit boards...but I fell in love with coding!
-- ⛳️ I like to golf, watch football, hang with family, and play old school video games
+- ⛳️ I like to golf, hang with family, and play old school video games
 
 <!--
 **chadwhittaker/chadwhittaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
